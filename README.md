@@ -1,9 +1,6 @@
-<p>📞 Email | oasis1340@gmail.com</p>
-<p>✉ Phone | 010-2564-1340</p>
-
-
-
-
+<p>✉ Email | oasis1340@gmail.com</p>
+<p>📞 Phone | 010-2564-1340</p>
+<p></p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
