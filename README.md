@@ -11,7 +11,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=oasis1340&show_icons=true" />
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjy2564)](https://solved.ac/jjy2564/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={jjy2564}](https://solved.ac/{jjy2564}/)
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oasis1340&layout=donut)](https://github.com/oasis1340/github-readme-stats)
