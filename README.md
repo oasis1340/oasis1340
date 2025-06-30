@@ -12,6 +12,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=oasis1340&show_icons=true" />
 </picture>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjy2564)
+<a href="https://solved.ac/jjy2564">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjy2564" alt="Solved.ac 프로필" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oasis1340&layout=donut)](https://github.com/oasis1340/github-readme-stats)
