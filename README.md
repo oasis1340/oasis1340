@@ -1,4 +1,4 @@
-# JANG JAE YOUNG 😉
+# JANG JAE YOUNG 😊
 
 # 💪GitHub stats
 ![장재영's GitHub stats](https://github-readme-stats.vercel.app/api?username=oasis1340&show_icons=true&theme=radical)
