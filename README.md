@@ -1,11 +1,12 @@
 # 😀Profile
 ✉ Email | oasis1340@gmail.com
 
-📞 Phone | 010-2564-1340
+📞 Phone | 010-4541-1676
 
 ✏ Blog | https://oasis1340.tistory.com/
 
 📋 Notion | https://www.notion.so/2043feec31f280d8b622fa4a49999ec5
+
 
 
 # 💪GitHub stats
