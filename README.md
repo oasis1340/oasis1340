@@ -1,7 +1,7 @@
 # 😀Profile
 ✉ Email | oasis1340@gmail.com
 
-📞 Phone | 010-4541-1676
+📞 Phone | 010-2564-1340
 
 ✏ Blog | https://oasis1340.tistory.com/
 
