@@ -25,4 +25,4 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&perline=6&theme=dark)](https://skillicons.dev)
 
 ### IDEs & Development Tools  
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea&perline=6&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,figma,aws&perline=6&theme=dark)](https://skillicons.dev)
