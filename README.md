@@ -15,7 +15,8 @@
 
 # 🚀Skills
 ### Back-end Technologies  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql&perline=6&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql&perline=6&theme=dark)](https://skillicons.dev)
 
 ### Front-end Technologies  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react&perline=6&theme=dark)](https://skillicons.dev)
