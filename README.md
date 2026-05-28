@@ -1,5 +1,5 @@
 # 😀Profile
-✉ Email | oasis1340@gmail.com7
+✉ Email | oasis1340@gmail.com
 
 📞 Phone | 010-2564-1340
 
